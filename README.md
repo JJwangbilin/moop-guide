@@ -1,4 +1,4 @@
-# 电信使用mooplab
+# 使用mooplab
 
-大致介绍电信使用mooplab的方法和步骤
+大致介绍使用mooplab的方法和步骤
 
