@@ -1,4 +1,4 @@
-# 欢迎使用mooplab文档
+# 平台介绍
 
-mooplab（www.mooplab.com）
+www.mooplab.com
 
