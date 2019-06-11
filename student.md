@@ -1,6 +1,6 @@
 ### 1.注册
 
-学生可访问https://www.mooplab.com进行注册，注册需要邀请码，邀请码请联系管理员获得。
+学生可访问[https://www.mooplab.com](https://www.mooplab.com)进行注册，注册需要邀请码，邀请码请联系管理员获得。
 
 
 
