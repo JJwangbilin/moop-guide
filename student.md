@@ -58,3 +58,40 @@
 关于学号：学号是需管理员预录入到系统中。学生才可填写相应的学号。
 ```
 
+
+
+### 8.其他
+
+###### 8.1 学生的编写的代码，如何同步到自有的git项目中？
+
+- 运行jupyter-teminal
+
+  ![image-20190612123201261](./assets/terminal1.png)
+
+  ![image-20190612123515245](./assets/teminal1.1.png)
+
+![image-20190612123409237](./assets/terminal2.png)
+
+```
+注：学生只对project目录有写权限，对其他目录有读权限
+```
+
+- 上传代码
+
+![image-20190612124156813](./assets/push.png)
+
+
+
+###### 8.2 学生fork的项目，如何同步给owner？
+
+如下图所示，forked from moop-china/pro-basestation-anormaly的项目，同步给moop-china，只需点击图中的Pull request即可。
+
+![image-20190612124613299](./assets/pull.png)
+
+![image-20190612124827613](./assets/pull2.png)
+
+
+
+登陆moop-china，可以选择同意合并或关闭此次请求，如下图所示。
+
+![image-20190612125307705](./assets/merge.png)
